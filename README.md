@@ -1,23 +1,30 @@
-# 👋 Olá, eu sou o Cristiano!
+👋 Hello, I'm Cristiano!
+💻 About Me
+I'm a software developer passionate about technology, currently studying Computer Science Technician. I mainly work with PHP (Laravel) and JavaScript, creating modern and efficient web applications. I have experience in developing complete systems, including billing, BolsaApp, and administrative portals.
 
-## 💻 Sobre mim
-Sou um **desenvolvedor de software** apaixonado por tecnologia, atualmente cursando *Tecnico de Informatica**. Trabalho principalmente com **PHP (Laravel)** e **JavaScript**, criando aplicações web modernas e eficientes. Tenho experiência no desenvolvimento de sistemas completos, incluindo **faturação**, **BolsaApp** e **portais administrativos**.
+🚀 Skills
+🌐 Web Development: PHP, Laravel, JavaScript, Tailwind CSS
 
-## 🚀 Habilidades
-- 🌐 Desenvolvimento Web: PHP, Laravel, JavaScript, Tailwind CSS
-- 📊 Banco de Dados: MySQL
-- ⚡ Frameworks: Laravel, Livewire, Jetstream
-- 📱 Responsividade e UI: Tailwind CSS
-- 🛠️ Ferramentas: Git, Composer, NPM
+📊 Database: MySQL
 
-## 🏆 Projetos Principais
-- **🎓 [BolsaApp](#)** - Plataforma para candidaturas a bolsas de estudo
-- **💰 [Faturar+](#)** - Sistema de faturação com gerenciamento de clientes e produtos
-- **✈️ [Express Fly](#)** - Site para compra de passagens aéreas
+⚡ Frameworks: Laravel, Livewire, Jetstream
 
-## 📫 Como me encontrar
-- 💼 [LinkedIn](#)  
-- 💻 [Portfólio](#)  
-- 📧 cristianclassico770@gmail.com
+🎨 UI & Responsiveness: Tailwind CSS
 
-💡 *Sempre aprendendo e desenvolvendo novas soluções!* 🚀
+🛠️ Tools: Git, Composer, NPM
+
+🏆 Main Projects
+🎓 BolsaApp – Platform for scholarship applications
+
+💰 Faturar+ – Billing system with client and product management
+
+✈️ Express Fly – Website for purchasing airline tickets
+
+📫 How to Reach Me
+💼 LinkedIn
+
+💻 Portfolio
+
+📧 cristianclassico770@gmail.com
+
+💡 Always learning and developing new solutions! 🚀
